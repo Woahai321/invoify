@@ -5,7 +5,7 @@ Invoify is a web-based invoice generator application built with Next.js 13, Type
 
 ![Invoify Website image](/public/assets/img/invoify-web-app.png)
 
-## Table of Contents
+## Table of Contents 
 
 - [Invoify](#invoify)
   - [Table of Contents](#table-of-contents)
